@@ -1,0 +1,32 @@
+21/04/2026, 12:10 am - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+21/04/2026, 12:10 am - You created this group
+21/04/2026, 12:10 am - Ashhal IBA 27 and M. Ibrahim Siddiqui IBA 27 were added
+21/04/2026, 12:10 am - You changed this group's settings to allow only admins to send messages to this group
+21/04/2026, 12:11 am - You changed the settings so only admins can edit the group settings
+21/04/2026, 12:11 am - Faraz: Ok so this group will strictly be used as our team logs since it is a required submission
+21/04/2026, 12:11 am - Faraz: *please no other talks on here since we need to export and use it as a meeting log*
+21/04/2026, 12:12 am - Faraz: Preferably speak in english since it is easier to convert to logs
+21/04/2026, 12:12 am - Faraz: Before every module submission we will do 5 mins discussion here so that way i can convert them and use it
+21/04/2026, 12:13 am - Faraz: We will have our first meeting when all of us setup and get the project running:
+Talk about the app
+Talk about the srs breifly @⁨all⁩
+21/04/2026, 12:14 am - Faraz: Incase i forget to do these before modules remind me since it is necessary thank you
+21/04/2026, 9:54 pm - Faraz: Ok this is standup meeting #1 before test plan:
+Successfully pulled the app
+Basic smoke test
+Srs/basic priorities
+21/04/2026, 9:54 pm - You changed this group's settings to allow all members to send messages to this group
+21/04/2026, 9:56 pm - Faraz: I successfully pulled the repo and launched it. At first glance (smoke test) it works good for me the UI is working smoothly so far. 
+The registration and signup looks basic which could through errors.
+Regarding srs a few things like 50 users test load and some booking maybe not testable but other then that the srs is good.
+21/04/2026, 9:56 pm - Faraz: Regarding priority we will probably test the three features most. Signup. Admin. Basic load testing. And double bookings + events
+21/04/2026, 9:56 pm - Faraz: Please share your input Ibrahim and Ashhal @⁨all⁩
+21/04/2026, 10:03 pm - M. Ibrahim Siddiqui IBA 27: same. set up the project on my end and installed dependencies. ran a basic smoke test, everything appears to work at a basic level; UI elements all work, no crashes on multiple tests, routing also works properly between the diff pages. would suggest rigorous testing of register/ sign-up methods, and event bookings, feedback forms etc, to ensure proper triggers and procedures are working as intended (i.e. no duplicate registrations, bookings etc. proper logging of data into the backend).
+21/04/2026, 10:03 pm - Ashhal IBA 27: I was also able to get the restaurant management system up and running on my system, and initially I was also impressed by the clean look of the website and the simple and easy to follow UI.
+ While I did not explore that much, I did manage to register myself and as you said the sign up was very basic and probably could be a hotspot for bugs.
+Non Functional attributes of the SRS are probably not feasible for a small test team like ours but the other points are solid.
+While basic the signup works so I guess we should see how the system responds to the various restaurant booking scenarios that can be encountered by the system.
+21/04/2026, 10:05 pm - Faraz: Conclusion of meeting #1
+21/04/2026, 10:05 pm - You changed this group's settings to allow only admins to send messages to this group
+22/04/2026, 1:23 am - Faraz: Testplan made and proof read. Has been shared with you two on outlook. Needs proof read ASAP. So it can be finalised @⁨all⁩
+22/04/2026, 9:23 pm - Faraz: Submitted
