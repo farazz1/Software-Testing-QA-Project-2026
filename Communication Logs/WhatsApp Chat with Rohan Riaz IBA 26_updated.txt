@@ -1,0 +1,89 @@
+21/07/2023, 7:25 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+25/07/2023, 8:41 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+17/11/2023, 4:06 am - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+18/12/2023, 4:42 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+11/01/2024, 4:52 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+26/04/2024, 2:32 am - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+26/04/2024, 2:32 am - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+31/07/2024, 3:20 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+05/08/2024, 3:08 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+15/08/2024, 3:12 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+25/08/2024, 1:00 am - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+22/09/2024, 7:49 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+23/09/2024, 12:29 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+16/04/2026, 12:37 am - Faraz: Heyy. Group 10 here ST. Yaar meray teamate nai li thi repo but we wanna maintain convo log too
+16/04/2026, 12:37 am - Faraz: Can you please send it to me again?
+16/04/2026, 12:39 am - Faraz: Also please setup ka bhi thora guide kardo takai isko hum easily setup karlain. Thank you
+16/04/2026, 1:27 pm - Faraz: Bhai aj bata do please🙏😅
+16/04/2026, 1:29 pm - Rohan Riaz IBA 26: 😭😭 haan abhi recruitment drive ke baad
+16/04/2026, 1:29 pm - Rohan Riaz IBA 26: https://github.com/Sk30803/Restaurant-Management-System/tree/connected
+16/04/2026, 1:30 pm - Faraz: Haan plz
+16/04/2026, 1:30 pm - Rohan Riaz IBA 26: pull this and root pe frontend hai
+16/04/2026, 1:30 pm - Rohan Riaz IBA 26: backend wala folder hai usske readme mein seeding script waghera likhi hui hain
+16/04/2026, 1:30 pm - Faraz: Yaar setup ka tareeqa  srs and apna test plan please. Sir nai allow kya wa hai
+16/04/2026, 1:30 pm - Rohan Riaz IBA 26: run krlo it shud set it up
+16/04/2026, 1:30 pm - Faraz: Okay set
+16/04/2026, 1:30 pm - Rohan Riaz IBA 26: its postgresql toh make sure thats installed
+16/04/2026, 1:30 pm - Rohan Riaz IBA 26: haan sure abhi drive ke baad dekhta
+16/04/2026, 1:31 pm - Faraz: Thank you
+16/04/2026, 9:29 pm - Faraz: Reminder. Please send srs and testplan for this too
+16/04/2026, 9:31 pm - Rohan Riaz IBA 26: Okay, will do
+16/04/2026, 11:28 pm - Faraz: Dedo bhai😭
+16/04/2026, 11:31 pm - Rohan Riaz IBA 26: <Media omitted>
+16/04/2026, 11:32 pm - Faraz: Thank you
+16/04/2026, 11:32 pm - Rohan Riaz IBA 26: as for the test plan
+16/04/2026, 11:32 pm - Rohan Riaz IBA 26: waiting on the member that submitted it to send it, ive lost it on my laptop unforfunately
+16/04/2026, 11:32 pm - Rohan Riaz IBA 26: dw though the other members have it
+16/04/2026, 11:33 pm - Rohan Riaz IBA 26: ill fwd as soon as they reply
+16/04/2026, 11:33 pm - Faraz: Chalo okay thank you
+17/04/2026, 12:12 am - Rohan Riaz IBA 26: <Media omitted>
+17/04/2026, 12:12 am - Faraz: Thank youu
+20/04/2026, 4:33 pm - Faraz: <Media omitted>
+20/04/2026, 4:33 pm - Faraz: <Media omitted>
+20/04/2026, 4:36 pm - Rohan Riaz IBA 26: <Media omitted>
+20/04/2026, 5:05 pm - Faraz: Connected se pull kia hai humne
+20/04/2026, 5:05 pm - Faraz: The very one he shared
+20/04/2026, 5:12 pm - Faraz: Could be we pulled from the wrong branch. One other friend is going to test if it works its highly possible humnai phir ghalat sai hi kya ho
+20/04/2026, 5:12 pm - Faraz: Ok works for him
+20/04/2026, 5:13 pm - Faraz: The rest of us will repull it.
+07/05/2026, 1:19 pm - Rohan Riaz IBA 26: boss
+07/05/2026, 1:19 pm - Rohan Riaz IBA 26: kya scene
+07/05/2026, 1:20 pm - Faraz: Demo
+07/05/2026, 1:20 pm - Faraz: Marked
+07/05/2026, 1:20 pm - Faraz: Randomly calling
+07/05/2026, 1:20 pm - Rohan Riaz IBA 26: ainnoway
+07/05/2026, 1:20 pm - Faraz: Teams
+07/05/2026, 1:21 pm - Faraz: Yes test plan ka ho raha
+07/05/2026, 1:21 pm - Rohan Riaz IBA 26: no me betha hoon class mein fw
+07/05/2026, 1:21 pm - Rohan Riaz IBA 26: dw**
+07/05/2026, 1:21 pm - Faraz: Abbay😭🤣
+07/05/2026, 1:21 pm - Faraz: To kia pooch rahai?
+07/05/2026, 1:21 pm - Rohan Riaz IBA 26: logs waghera ka puchenge kya ye
+07/05/2026, 1:21 pm - Faraz: Yaar idk baari nahi ai. But humnai sab maintain kya wa.
+07/05/2026, 1:21 pm - Rohan Riaz IBA 26: onon
+31/05/2026, 6:18 pm - Faraz: AoA needed help asap please
+31/05/2026, 6:19 pm - Rohan Riaz IBA 26: not home
+31/05/2026, 6:19 pm - Rohan Riaz IBA 26: whats going on
+31/05/2026, 6:19 pm - Faraz: Yaar how did you guys use your admin and staff. Since we cant register? My teamates tried but got this issue
+31/05/2026, 6:19 pm - Rohan Riaz IBA 26: huh
+31/05/2026, 6:19 pm - Faraz: Basically admin can create staff accounts ACC to their documentation I think not sure
+31/05/2026, 6:19 pm - Faraz: But the admin credentials created by seeding script, when I'm using them to login, it says login failed
+31/05/2026, 6:19 pm - Faraz: <Media omitted>
+31/05/2026, 6:19 pm - Rohan Riaz IBA 26: which branch are you on
+31/05/2026, 6:19 pm - Faraz: We are using the correct one ab sab works we can create accounts for users too. I am asking for admin and staff
+31/05/2026, 6:20 pm - Faraz: Unkai credentials yaad hain?
+31/05/2026, 6:20 pm - Rohan Riaz IBA 26: yes they were admin@example.com and admin123
+31/05/2026, 6:21 pm - Faraz: Okay thanks works
+31/05/2026, 6:21 pm - Rohan Riaz IBA 26: there was an update wesay a while ago, around the time the TA demos were happening
+31/05/2026, 6:21 pm - Rohan Riaz IBA 26: did u guys pull it
+31/05/2026, 6:21 pm - Rohan Riaz IBA 26: if not toh itna issue ni hoga wesay tbf
+31/05/2026, 6:21 pm - Faraz: Nhi whatever doesnt work we will just mark it as fail. After all testing project hai😭
+31/05/2026, 6:22 pm - Faraz: Also staff we will create thru admin?
+31/05/2026, 6:22 pm - Rohan Riaz IBA 26: yea ok
+31/05/2026, 6:22 pm - Faraz: <Media omitted>
+31/05/2026, 6:22 pm - Rohan Riaz IBA 26: admins can turn user accounts into staff accounts
+31/05/2026, 6:22 pm - Faraz: Okay perfect. Thank you for your help
+31/05/2026, 6:22 pm - Rohan Riaz IBA 26: acha another thing, staff/admim ke roles were merged so wo srs se inconsistent hai
+31/05/2026, 6:23 pm - Rohan Riaz IBA 26: mark it as a failure/inconsistency ig lol
+31/05/2026, 6:23 pm - Faraz: Yeah no worries jo work wo works jo doesnt we will note it
+31/05/2026, 6:23 pm - Faraz: Thanks
